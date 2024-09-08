@@ -45,5 +45,5 @@ http://yuvraj49.in/tplay/manifest.mpd/?id=556
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=556
-#EXTINF:-1 tvg-id="ts556" group-title="Entertainment",SET2
+#EXTINF:-1 tvg-id="ts556" group-title="test",SET2
 http://yuvraj49.in/tplay/manifest.mpd/?id=556
