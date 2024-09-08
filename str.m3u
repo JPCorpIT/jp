@@ -1,30 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
-#EXTINF: -1 group-title="Movies", 1 Star Gold Thrills
-http://103.161.34.13:8080/live/8842/8842/221258.m3u8
-
-#EXTINF: -1 group-title="Movies", 2 Star Gold HD
-http://103.161.34.13:8080/live/8842/8842/66177.m3u8
-
-#EXTINF: -1 group-title="Movies", 3 Star Gold [FHD]
-http://103.161.34.13:8080/live/8842/8842/66178.m3u8
-
-#EXTINF: -1 group-title="Movies", 4 Star Gold Select
-http://103.161.34.13:8080/live/8842/8842/221257.m3u8
-
-#EXTINF: -1 group-title="Movies", 5 Star Gold Select FHD
-http://103.161.34.13:8080/live/8842/8842/66176.m3u8
-
-#EXTINF: -1 group-title="Movies", 6 Star Gold 2
-http://103.161.34.13:8080/live/8842/8842/106133.m3u8
-
-#EXTINF: -1 group-title="Movies", 7 Star Gold HD
-http://103.161.34.13:8080/live/8842/8842/112982.m3u8
-
-#EXTINF: -1 group-title="Movies", 8 Star Gold Romance
-http://103.161.34.13:8080/live/8842/8842/66186.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=244
 #EXTINF:-1 tvg-id="ts244" group-title="Entertainment",Star Bharat HD
@@ -39,19 +15,19 @@ http://yuvraj49.in/tplay/manifest.mpd/?id=8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=551
-#EXTINF:-1 tvg-id="ts551" group-title="Entertainment",STAR Utsav
+#EXTINF:-1 tvg-id="ts551" group-title="Entertainment",Star Utsav
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yuvraj49.in/tplay/manifest.mpd/?id=551
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=245
-#EXTINF:-1 tvg-id="ts245" group-title="Movies",STAR GOLD HD
+#EXTINF:-1 tvg-id="ts245" group-title="Movies",Star Gold HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yuvraj49.in/tplay/manifest.mpd/?id=245
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=632
-#EXTINF:-1 tvg-id="ts632" group-title="Movies",Star GOLD HD
+#EXTINF:-1 tvg-id="ts632" group-title="Movies",Star Gold HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yuvraj49.in/tplay/manifest.mpd/?id=632
 
