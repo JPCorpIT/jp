@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
-#EXTINF: -1 group-title="Movies",Star Gold Thrills
+#EXTINF: -1 group-title="Movies", 1 Star Gold Thrills
 http://103.161.34.13:8080/live/8842/8842/221258.m3u8
 
-#EXTINF: -1 group-title="Movies", Star Gold HD
+#EXTINF: -1 group-title="Movies", 2 Star Gold HD
 http://103.161.34.13:8080/live/8842/8842/66177.m3u8
 
-#EXTINF: -1 group-title="Movies", Star Gold [FHD]
+#EXTINF: -1 group-title="Movies", 3 Star Gold [FHD]
 http://103.161.34.13:8080/live/8842/8842/66178.m3u8
 
-#EXTINF: -1 group-title="Movies", Star Gold Select
+#EXTINF: -1 group-title="Movies", 4 Star Gold Select
 http://103.161.34.13:8080/live/8842/8842/221257.m3u8
 
-#EXTINF: -1 group-title="Movies", Star Gold Select FHD
+#EXTINF: -1 group-title="Movies", 5 Star Gold Select FHD
 http://103.161.34.13:8080/live/8842/8842/66176.m3u8
 
-#EXTINF: -1 group-title="Movies", Star Gold 2
+#EXTINF: -1 group-title="Movies", 6 Star Gold 2
 http://103.161.34.13:8080/live/8842/8842/106133.m3u8
 
-#EXTINF: -1 group-title="Movies", Star Gold HD
+#EXTINF: -1 group-title="Movies", 7 Star Gold HD
 http://103.161.34.13:8080/live/8842/8842/112982.m3u8
 
-#EXTINF: -1 group-title="Movies", Star Gold Romance
+#EXTINF: -1 group-title="Movies", 8 Star Gold Romance
 http://103.161.34.13:8080/live/8842/8842/66186.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
