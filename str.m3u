@@ -30,3 +30,9 @@ http://yuvraj49.in/tplay/manifest.mpd/?id=245
 #EXTINF:-1 tvg-id="ts367" group-title="Lifestyle",Star Life HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yuvraj49.in/tplay/manifest.mpd/?id=367
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=15
+#EXTINF:-1 tvg-id="ts15" group-title="Entertainment",SET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=15
