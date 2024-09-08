@@ -43,5 +43,7 @@ http://yuvraj49.in/tplay/manifest.mpd/?id=15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yuvraj49.in/tplay/manifest.mpd/?id=556
 
-#EXTINF:-1 group-title="Entertainment",SET1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=556
+#EXTINF:-1 tvg-id="ts556" group-title="Entertainment",SET2
 http://yuvraj49.in/tplay/manifest.mpd/?id=556
