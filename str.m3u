@@ -26,12 +26,6 @@ http://yuvraj49.in/tplay/manifest.mpd/?id=551
 http://yuvraj49.in/tplay/manifest.mpd/?id=245
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=632
-#EXTINF:-1 tvg-id="ts632" group-title="Movies",Star Gold HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://yuvraj49.in/tplay/manifest.mpd/?id=632
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=367
 #EXTINF:-1 tvg-id="ts367" group-title="Lifestyle",Star Life HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
