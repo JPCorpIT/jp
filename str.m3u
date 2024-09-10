@@ -43,13 +43,6 @@ http://yuvraj49.in/tplay/manifest.mpd/?id=15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yuvraj49.in/tplay/manifest.mpd/?id=556
 
-#EXTINF:-1 tvg-id="" group-title="Kids",Disney HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj43.xyz/ss/index.m3u8?id=19741
-
-#EXTINF:-1 tvg-id="" group-title="Kids",shinchan 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj43.xyz/ss/index.m3u8?id=147724
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -119,3 +112,11 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports",FOX Cricket 501
 https://mhdtv.co.in/daddy/stream.m3u8?id=369|Referer=https://mhdtv.co.in/
+
+#EXTINF:-1 tvg-id="" group-title="Kids",Disney HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/ss/index.m3u8?id=19741
+
+#EXTINF:-1 tvg-id="" group-title="Kids",shinchan 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/ss/index.m3u8?id=147724
