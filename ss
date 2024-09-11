@@ -50,7 +50,7 @@ https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 #EXTINF:-1 tvg-id="1000009279" group-title="SonyLiv",Sony TEN 2
 https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 
-#EXTINF:-1 group-title="SonyLiv", Sony TEN 3
+#EXTINF:-1 tvg-id="1000009283" group-title="SonyLiv", Sony TEN 3
 https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 
 #EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 4
