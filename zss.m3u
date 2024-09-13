@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=245
+#EXTINF:-1 tvg-id="ts245" tvg-name="Star Gold HD" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=245
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=632
+#EXTINF:-1 tvg-id="ts632" tvg-name="Star Gold HD" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=632
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=367
+#EXTINF:-1 tvg-id="ts367" tvg-name="Star Life HD" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Star Life HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=367
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=40
+#EXTINF:-1 tvg-id="ts40" tvg-name="&TV HD" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", &TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=40
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=267
+#EXTINF:-1 tvg-id="ts267" tvg-name="&Pictures HD" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=267
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=148
+#EXTINF:-1 tvg-id="ts148" tvg-name="&Pictures" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Pictures
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=148
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=1183
+#EXTINF:-1 tvg-id="ts1183" tvg-name="&Xplor HD" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=1183
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=503
+#EXTINF:-1 tvg-id="ts503" tvg-name="Zee Cinema HD" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=503
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=123
+#EXTINF:-1 tvg-id="ts123" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=123
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=175
+#EXTINF:-1 tvg-id="ts175" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=175
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=772
+#EXTINF:-1 tvg-id="ts772" tvg-name="Tata Play Gujarati Cinema" tvg-language="Hindi" tvg-type="Gujarati" group-title="Gujarati", Tata Play Gujarati Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=772
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=486
+#EXTINF:-1 tvg-id="ts486" tvg-name="Tata Play Bollywood Premiere" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Tata Play Bollywood Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=486
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=132
+#EXTINF:-1 tvg-id="ts132" tvg-name="Sony Max" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=132
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=120
+#EXTINF:-1 tvg-id="ts120" tvg-name="Sony Max 2" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=120
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=80
+#EXTINF:-1 tvg-id="ts80" tvg-name="Sony Max HD" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=80
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=15
+#EXTINF:-1 tvg-id="ts15" tvg-name="SET HD" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=15
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=556
+#EXTINF:-1 tvg-id="ts556" tvg-name="SET" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=556
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=45
+#EXTINF:-1 tvg-id="ts45" tvg-name="SONY YAY!" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", SONY YAY!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=45
