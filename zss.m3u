@@ -57,7 +57,7 @@ http://yuvraj49.in/tplay/manifest.mpd/?id=123
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=772
-#EXTINF:-1 tvg-id="ts772" tvg-name="Tata Play Gujarati Cinema" tvg-language="Hindi" tvg-type="Gujarati" group-title="Gujarati", Tata Play Gujarati Cinema
+#EXTINF:-1 tvg-id="ts772" tvg-name="Tata Play Gujarati Cinema" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Tata Play Gujarati Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yuvraj49.in/tplay/manifest.mpd/?id=772
 
