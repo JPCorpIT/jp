@@ -1,4 +1,4 @@
-#EXTM3U
+3#EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -79,13 +79,13 @@ http://yuvraj49.in/tplay/manifest.mpd/?id=80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yuvraj49.in/tplay/manifest.mpd/?id=15
 
-#EXTINF:-1 tvg-id"" tvg-name="Sony Kal" group-title="SonyLiv", Sony Kal
+#EXTINF:-1 tvg-id"" tvg-name="Sony Kal" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SET HD" group-title="Entertainment", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 
-#EXTINF:-1 tvg-id="1000009248" tvg-name="Sony SAB HD" group-title="SonyLiv", Sony SAB HD
+#EXTINF:-1 tvg-id="1000009248" tvg-name="Sony SAB HD" group-title="Entertainment", Sony SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 #EXTINF:-1 tvg-id="1000001971" tvg-name="Sony YAY" group-title="Kids", Sony YAY
