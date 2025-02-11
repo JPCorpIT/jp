@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
+https://sonydaimenew.akamaized.net/linear/hls/pb/event/g1cPcUIdSQC_3FXsrgV5iA/stream/2ab1ea27-62c4-4909-b96d-b09c59b2bd1c:SIN/variant/04d88742c5435b74d269ad732b6cb1f5/bandwidth/hdntl=exp=1739368668~acl=%2f*~id=c9a9dbbd-2748-4431-b3a1-28b9e0b423b3~data=hdntl~hmac=49561ca879912c38b11d400df0d6b6fbc109fa91ff0068575dd2dcad09300f3b/2778568.m3u8?aka_me_session_id=AAAAAAAAAADcqKxnAAAAAFnPUd%2fyaQmZ4NBt%2fIAZxNtRApX%2fnYNgaCyxuWc2pyIIr83D7Z47jfvY0oAvpTPwlOYOafylZm7Y&aka_media_format_type=hls
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=8
 #EXTINF:-1 tvg-id="ts8" group-title="Entertainment",STAR Plus HD
